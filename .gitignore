@@ -1,0 +1,7 @@
+data/
+db/
+results/
+subset*/
+logs/
+*.log
+__pycache__/
