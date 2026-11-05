@@ -6,3 +6,5 @@ logs/
 *.log
 __pycache__/
 metadata/
+!results/utir_terl_phylogeny_v3.png
+!results/utir_terl_distances_v3.tsv
