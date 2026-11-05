@@ -8,3 +8,6 @@ __pycache__/
 metadata/
 !results/utir_terl_phylogeny_v3.png
 !results/utir_terl_distances_v3.tsv
+!results/utir_trna_deep_v2.png
+!results/utir_trna_table.tsv
+!results/utir_trna_edge_candidates.tsv
