@@ -1,0 +1,42 @@
+isolate	participant	timepoint	tp_type	species	gene	category	identity	prophage_id
+utir_007_m0_09	007	m0	UTI-free	E. coli	sitC	Iron transport (Sit)	0.9250	utir_007_m0_09_001__provirus_2620472_2670161
+utir_011_u2k1_01	011	u2k1	UTI	E. coli	sitC	Iron transport (Sit)	0.9250	utir_011_u2k1_01_001__provirus_2440519_2472856
+utir_011_u2k1_01	011	u2k1	UTI	E. coli	sitD	Iron transport (Sit)	0.8680	utir_011_u2k1_01_001__provirus_2440519_2472856
+utir_007_m0_09	007	m0	UTI-free	E. coli	sitD	Iron transport (Sit)	0.8720	utir_007_m0_09_001__provirus_2620472_2670161
+utir_011_m12_05	011	m12	UTI-free	E. intestinihominis	gtrA	Immune modulation (LPS)	0.8020	utir_011_m12_05_001__provirus_3385079_3432790
+utir_011_m12_05	011	m12	UTI-free	E. intestinihominis	gtrB	Immune modulation (LPS)	0.8990	utir_011_m12_05_001__provirus_3385079_3432790
+utir_025_m0_06	025	m0	UTI-free	E. coli	sitA	Iron transport (Sit)	0.9630	utir_025_m0_06_001__provirus_2909831_2960139
+utir_025_m0_05	025	m0	UTI-free	E. coli	sitA	Iron transport (Sit)	0.9630	utir_025_m0_05_001__provirus_4278925_4301343
+utir_025_m0_06	025	m0	UTI-free	E. coli	sitB	Iron transport (Sit)	0.9330	utir_025_m0_06_001__provirus_2909831_2960139
+utir_025_m0_05	025	m0	UTI-free	E. coli	sitB	Iron transport (Sit)	0.9330	utir_025_m0_05_001__provirus_4278925_4301343
+utir_025_m0_05	025	m0	UTI-free	E. coli	sitC	Iron transport (Sit)	0.9280	utir_025_m0_05_001__provirus_4278925_4301343
+utir_025_m0_06	025	m0	UTI-free	E. coli	sitC	Iron transport (Sit)	0.9280	utir_025_m0_06_001__provirus_2909831_2960139
+utir_025_m0_06	025	m0	UTI-free	E. coli	sitD	Iron transport (Sit)	0.8990	utir_025_m0_06_001__provirus_2909831_2960139
+utir_025_m0_05	025	m0	UTI-free	E. coli	sitD	Iron transport (Sit)	0.8990	utir_025_m0_05_001__provirus_4278925_4301343
+utir_014_u1k1_05	014	u1k1	UTI	E. coli	cdtC	Exotoxin (CDT)	0.8880	utir_014_u1k1_05_001__provirus_2549520_2581857
+utir_011_u1k2_04	011	u1k2	UTI	E. lactis	bsh	Stress survival (BSH)	0.8250	utir_011_u1k2_04_001__provirus_1082362_1092749
+utir_029_m0_06	029	m0	UTI-free	E. lactis	bsh	Stress survival (BSH)	0.8250	utir_029_m0_06_001__provirus_1008666_1019055
+utir_025_m0_07	025	m0	UTI-free	E. lactis	bsh	Stress survival (BSH)	0.8250	utir_025_m0_07_001__provirus_1008662_1019051
+utir_014_u1k1_05	014	u1k1	UTI	E. coli	cdtA	Exotoxin (CDT)	0.9310	utir_014_u1k1_05_001__provirus_2549520_2581857
+utir_025_m0_05	025	m0	UTI-free	E. coli	nmpC	Adherence (nmpC)	0.8090	utir_025_m0_05_001__provirus_3_23545
+utir_011_u1k2_02	011	u1k2	UTI	E. lactis	bsh	Stress survival (BSH)	0.8250	utir_011_u1k2_02_001__provirus_1032554_1044248
+utir_004_m0_01	004	m0	UTI-free	E. coli	ECED1_RS08525	Other	0.8220	utir_004_m0_01_001__provirus_3_16780
+utir_011_m0_02	011	m0	UTI-free	M. morganii	rcsB	Regulation (rcsB)	0.8490	utir_011_m0_02_001__provirus_1557846_1583906
+utir_003_m0_02	003	m0	UTI-free	P. mirabilis	rcsB	Regulation (rcsB)	0.8660	utir_003_m0_02_001__provirus_3777252_3808254
+utir_004_m0_01	004	m0	UTI-free	E. coli	ECED1_RS08510	Effector delivery	0.9500	utir_004_m0_01_001__provirus_3_16780
+utir_011_u1k1_04	011	u1k1	UTI	E. coli	nmpC	Adherence (nmpC)	0.8090	utir_011_u1k1_04_001__provirus_2823039_2861377
+utir_014_u1k1_05	014	u1k1	UTI	E. coli	nmpC	Adherence (nmpC)	0.8040	utir_014_u1k1_05_001__provirus_3705378_3736851
+utir_004_m0_01	004	m0	UTI-free	E. coli	nmpC	Adherence (nmpC)	0.8180	utir_004_m0_01_001__provirus_4407920_4454367
+utir_003_m0_04	003	m0	UTI-free	P. mirabilis	rcsB	Regulation (rcsB)	0.8660	utir_003_m0_04_001__provirus_2385983_2416986
+utir_011_u1k1_04	011	u1k1	UTI	E. coli	sitD	Iron transport (Sit)	0.8990	utir_011_u1k1_04_002__provirus_1_26905
+utir_011_u1k1_04	011	u1k1	UTI	E. coli	sitC	Iron transport (Sit)	0.9280	utir_011_u1k1_04_002__provirus_1_26905
+utir_011_u1k1_04	011	u1k1	UTI	E. coli	sitB	Iron transport (Sit)	0.9330	utir_011_u1k1_04_002__provirus_1_26905
+utir_011_u1k1_04	011	u1k1	UTI	E. coli	sitA	Iron transport (Sit)	0.9630	utir_011_u1k1_04_002__provirus_1_26905
+utir_025_m0_06	025	m0	UTI-free	E. coli	nmpC	Adherence (nmpC)	0.8090	utir_025_m0_06_001__provirus_3560015_3604539
+utir_004_m0_01	004	m0	UTI-free	E. coli	gtrB	Immune modulation (LPS)	0.9020	utir_004_m0_01_001__provirus_4672582_4717850
+utir_004_m0_01	004	m0	UTI-free	E. coli	gtrA	Immune modulation (LPS)	0.8690	utir_004_m0_01_001__provirus_4672582_4717850
+utir_014_u4k2_03	014	u4k2	UTI	E. coli	sitD	Iron transport (Sit)	0.8720	utir_014_u4k2_03_001__provirus_457706_507254
+utir_004_m0_01	004	m0	UTI-free	E. coli	sitD	Iron transport (Sit)	0.8680	utir_004_m0_01_001__provirus_113777_164798
+utir_014_u4k2_03	014	u4k2	UTI	E. coli	sitC	Iron transport (Sit)	0.9250	utir_014_u4k2_03_001__provirus_457706_507254
+utir_004_m0_01	004	m0	UTI-free	E. coli	sitC	Iron transport (Sit)	0.9250	utir_004_m0_01_001__provirus_113777_164798
+utir_004_m0_01	004	m0	UTI-free	E. coli	sitB	Iron transport (Sit)	0.9200	utir_004_m0_01_001__provirus_113777_164798

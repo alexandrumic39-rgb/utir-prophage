@@ -11,3 +11,5 @@ metadata/
 !results/utir_trna_deep_v2.png
 !results/utir_trna_table.tsv
 !results/utir_trna_edge_candidates.tsv
+!results/utir_virulence.png
+!results/utir_virulence_table.tsv
